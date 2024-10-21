@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a03b5b15-fe3a-470a-94fe-49aaa12aab26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/PyCharmProjects/bilinear-densenet",
+    "last_opened_file_path": "E:/PyCharmProjects/machine-learning-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +72,9 @@
       <workItem from="1728441952107" duration="36000" />
       <workItem from="1728441998062" duration="203000" />
       <workItem from="1728742627500" duration="3003000" />
+      <workItem from="1729467883484" duration="94000" />
+      <workItem from="1729467985069" duration="114000" />
+      <workItem from="1729468107911" duration="687000" />
     </task>
     <servers />
   </component>
