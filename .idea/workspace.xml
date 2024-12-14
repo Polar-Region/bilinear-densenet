@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03b5b15-fe3a-470a-94fe-49aaa12aab26" name="Changes" comment="" />
+    <list default="true" id="a03b5b15-fe3a-470a-94fe-49aaa12aab26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Polar-Region/bilinear-densenet.git",
-    "accountId": "081184ff-dc2c-48f6-9fc2-e4a1ffa4170f"
+    "accountId": "ce28f3e7-09b7-4565-8d30-3100e0fdabed"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -45,7 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -90,6 +92,10 @@
       <workItem from="1733041959864" duration="122000" />
       <workItem from="1733042179057" duration="618000" />
       <workItem from="1733470051145" duration="246000" />
+      <workItem from="1733972707553" duration="280000" />
+      <workItem from="1733973026665" duration="17000" />
+      <workItem from="1733980280806" duration="996000" />
+      <workItem from="1734057858860" duration="182000" />
     </task>
     <servers />
   </component>
